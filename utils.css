@@ -1,0 +1,20 @@
+.text-center{
+  text-align: center;    /* to center the text of h1 */
+}
+.bg-red{
+  background: rebeccapurple;
+}
+.mx-auto{
+  margin: auto;
+}
+.flex{
+display: flex;
+}
+.flex-col{
+flex-direction: column;
+}
+
+.items-center{
+  align-items: center;  
+  /* Items are positioned at the center of the container */
+}
